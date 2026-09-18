@@ -1,4 +1,4 @@
-degree=int(input("Enter the degree:"))
+degree=int(input("Enter the Degree:"))
 if degree <=20:
     print("Cold Weather")
 elif degree >20 and degree <=38:
